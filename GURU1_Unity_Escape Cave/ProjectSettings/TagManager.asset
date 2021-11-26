@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gem
+  - GemR
+  - GemB
+  - Water
+  - Fire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - item
+  - background
+  - main
+  - player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 4193680413
+    locked: 0
+  - name: enemy
+    uniqueID: 3400601005
+    locked: 0
+  - name: main
+    uniqueID: 790944899
+    locked: 0
+  - name: item
+    uniqueID: 4157601859
+    locked: 0
+  - name: player
+    uniqueID: 4286533041
+    locked: 0
+  - name: UI
+    uniqueID: 1550699515
+    locked: 0

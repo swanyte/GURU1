@@ -1,0 +1,2498 @@
+fileFormatVersion: 2
+guid: 48b8808c192dd8642bc93d8c77177994
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9128957885016981151
+    second: cave-platformer-tileset-16x16_0
+  - first:
+      213: 4801475322882106449
+    second: cave-platformer-tileset-16x16_1
+  - first:
+      213: 8217909182682686932
+    second: cave-platformer-tileset-16x16_2
+  - first:
+      213: -3041655292064308259
+    second: cave-platformer-tileset-16x16_3
+  - first:
+      213: 7039670413169193093
+    second: cave-platformer-tileset-16x16_4
+  - first:
+      213: 284614835186639720
+    second: cave-platformer-tileset-16x16_5
+  - first:
+      213: -8771644959947296251
+    second: cave-platformer-tileset-16x16_6
+  - first:
+      213: -2350073973171738928
+    second: cave-platformer-tileset-16x16_7
+  - first:
+      213: 846846116043324952
+    second: cave-platformer-tileset-16x16_8
+  - first:
+      213: 8369055985799656345
+    second: cave-platformer-tileset-16x16_9
+  - first:
+      213: -3478131594357566667
+    second: cave-platformer-tileset-16x16_10
+  - first:
+      213: 6431686619447852241
+    second: cave-platformer-tileset-16x16_11
+  - first:
+      213: 8937923361109001695
+    second: cave-platformer-tileset-16x16_12
+  - first:
+      213: 1629302826333305252
+    second: cave-platformer-tileset-16x16_13
+  - first:
+      213: 4897934266607411079
+    second: cave-platformer-tileset-16x16_14
+  - first:
+      213: 8627730026381091957
+    second: cave-platformer-tileset-16x16_15
+  - first:
+      213: -2056334640330236556
+    second: cave-platformer-tileset-16x16_16
+  - first:
+      213: -3658239759056307174
+    second: cave-platformer-tileset-16x16_17
+  - first:
+      213: -8523406922285197151
+    second: cave-platformer-tileset-16x16_18
+  - first:
+      213: 8189390205127615331
+    second: cave-platformer-tileset-16x16_19
+  - first:
+      213: -8973962359562856438
+    second: cave-platformer-tileset-16x16_20
+  - first:
+      213: 6595411111840975082
+    second: cave-platformer-tileset-16x16_21
+  - first:
+      213: -5619018703055284498
+    second: cave-platformer-tileset-16x16_22
+  - first:
+      213: -3384769554918119672
+    second: cave-platformer-tileset-16x16_23
+  - first:
+      213: -7538112901638944092
+    second: cave-platformer-tileset-16x16_24
+  - first:
+      213: 3383719154647582759
+    second: cave-platformer-tileset-16x16_25
+  - first:
+      213: -169933180108442091
+    second: cave-platformer-tileset-16x16_26
+  - first:
+      213: 8317353118105540139
+    second: cave-platformer-tileset-16x16_27
+  - first:
+      213: -5245228897732965151
+    second: cave-platformer-tileset-16x16_28
+  - first:
+      213: 6350610317196331461
+    second: cave-platformer-tileset-16x16_29
+  - first:
+      213: 1736950026608542894
+    second: cave-platformer-tileset-16x16_30
+  - first:
+      213: 443975950941250407
+    second: cave-platformer-tileset-16x16_31
+  - first:
+      213: -9181091283503881471
+    second: cave-platformer-tileset-16x16_32
+  - first:
+      213: -6659976896278590007
+    second: cave-platformer-tileset-16x16_33
+  - first:
+      213: -1041254973304159705
+    second: cave-platformer-tileset-16x16_34
+  - first:
+      213: 4706855255469468225
+    second: cave-platformer-tileset-16x16_35
+  - first:
+      213: 3782473886167503897
+    second: cave-platformer-tileset-16x16_36
+  - first:
+      213: 7362474456075594713
+    second: cave-platformer-tileset-16x16_37
+  - first:
+      213: 5052472154716721185
+    second: cave-platformer-tileset-16x16_38
+  - first:
+      213: -4638278647059231020
+    second: cave-platformer-tileset-16x16_39
+  - first:
+      213: -5818117964191622246
+    second: cave-platformer-tileset-16x16_40
+  - first:
+      213: 4996398351883159444
+    second: cave-platformer-tileset-16x16_41
+  - first:
+      213: -2348971802183990175
+    second: cave-platformer-tileset-16x16_42
+  - first:
+      213: -178148495304111627
+    second: cave-platformer-tileset-16x16_43
+  - first:
+      213: 4103825940610369356
+    second: cave-platformer-tileset-16x16_44
+  - first:
+      213: -4250224277205658216
+    second: cave-platformer-tileset-16x16_45
+  - first:
+      213: -7034802916038469886
+    second: cave-platformer-tileset-16x16_46
+  - first:
+      213: 1500921221102276861
+    second: cave-platformer-tileset-16x16_47
+  - first:
+      213: -7982758760580066964
+    second: cave-platformer-tileset-16x16_48
+  - first:
+      213: 6696153695645293113
+    second: cave-platformer-tileset-16x16_49
+  - first:
+      213: -8618676612774088421
+    second: cave-platformer-tileset-16x16_50
+  - first:
+      213: -2898039285234175560
+    second: cave-platformer-tileset-16x16_51
+  - first:
+      213: -6410284216241921258
+    second: cave-platformer-tileset-16x16_52
+  - first:
+      213: 423411610843862272
+    second: cave-platformer-tileset-16x16_53
+  - first:
+      213: 1240948802774731498
+    second: cave-platformer-tileset-16x16_54
+  - first:
+      213: -7420696011641399225
+    second: cave-platformer-tileset-16x16_55
+  - first:
+      213: 5268837787287548809
+    second: cave-platformer-tileset-16x16_56
+  - first:
+      213: 3630509311350469696
+    second: cave-platformer-tileset-16x16_57
+  - first:
+      213: 5550951200094074173
+    second: cave-platformer-tileset-16x16_58
+  - first:
+      213: -1172901104341581450
+    second: cave-platformer-tileset-16x16_59
+  - first:
+      213: 4377624772020257643
+    second: cave-platformer-tileset-16x16_60
+  - first:
+      213: 6056291702746838994
+    second: cave-platformer-tileset-16x16_61
+  - first:
+      213: -4876669386936575554
+    second: cave-platformer-tileset-16x16_62
+  - first:
+      213: 6625556592351010778
+    second: cave-platformer-tileset-16x16_63
+  - first:
+      213: -8782936880032760326
+    second: cave-platformer-tileset-16x16_64
+  - first:
+      213: 2731221274546028488
+    second: cave-platformer-tileset-16x16_65
+  - first:
+      213: 4897449847064595321
+    second: cave-platformer-tileset-16x16_66
+  - first:
+      213: -1632198050321787013
+    second: cave-platformer-tileset-16x16_67
+  - first:
+      213: 8534602296223460147
+    second: cave-platformer-tileset-16x16_68
+  - first:
+      213: -1839637023256486180
+    second: cave-platformer-tileset-16x16_69
+  - first:
+      213: -1866742275790181167
+    second: cave-platformer-tileset-16x16_70
+  - first:
+      213: -5550378638194010282
+    second: cave-platformer-tileset-16x16_71
+  - first:
+      213: 3056058687283733035
+    second: cave-platformer-tileset-16x16_72
+  - first:
+      213: -3991325220516211845
+    second: cave-platformer-tileset-16x16_73
+  - first:
+      213: -8009659727927038360
+    second: cave-platformer-tileset-16x16_74
+  - first:
+      213: 2640904567184523061
+    second: cave-platformer-tileset-16x16_75
+  - first:
+      213: 4468968516629319272
+    second: cave-platformer-tileset-16x16_76
+  - first:
+      213: -3744764826614916477
+    second: cave-platformer-tileset-16x16_77
+  - first:
+      213: 7931702672444897503
+    second: cave-platformer-tileset-16x16_78
+  - first:
+      213: -8580051636918310239
+    second: cave-platformer-tileset-16x16_79
+  - first:
+      213: 6090640666392750840
+    second: cave-platformer-tileset-16x16_80
+  - first:
+      213: -6404621572416617014
+    second: cave-platformer-tileset-16x16_81
+  - first:
+      213: -7176008922425053773
+    second: cave-platformer-tileset-16x16_82
+  - first:
+      213: 2571313146495709920
+    second: cave-platformer-tileset-16x16_83
+  - first:
+      213: 3356459452264666505
+    second: cave-platformer-tileset-16x16_84
+  - first:
+      213: 8833877076756962709
+    second: cave-platformer-tileset-16x16_85
+  - first:
+      213: -70948077678480765
+    second: cave-platformer-tileset-16x17_0
+  - first:
+      213: 4267582372204307716
+    second: cave-platformer-tileset-16x17_1
+  - first:
+      213: 8349095372854582478
+    second: cave-platformer-tileset-16x17_2
+  - first:
+      213: -6978906091359752983
+    second: cave-platformer-tileset-16x17_3
+  - first:
+      213: 486658783404813519
+    second: cave-platformer-tileset-16x17_4
+  - first:
+      213: 3165523888716524365
+    second: cave-platformer-tileset-16x17_5
+  - first:
+      213: -348161205881839732
+    second: cave-platformer-tileset-16x17_6
+  - first:
+      213: 8621286010102330952
+    second: cave-platformer-tileset-16x17_7
+  - first:
+      213: -4786085937853504903
+    second: cave-platformer-tileset-16x17_8
+  - first:
+      213: 578571619113801002
+    second: cave-platformer-tileset-16x17_9
+  - first:
+      213: 1413452764292358653
+    second: cave-platformer-tileset-16x17_10
+  - first:
+      213: -205828516421157372
+    second: cave-platformer-tileset-16x17_11
+  - first:
+      213: 2086793025566783050
+    second: cave-platformer-tileset-16x17_12
+  - first:
+      213: 3554059886948369829
+    second: cave-platformer-tileset-16x17_13
+  - first:
+      213: 1321723660005681732
+    second: cave-platformer-tileset-16x17_14
+  - first:
+      213: 7419357001204900152
+    second: cave-platformer-tileset-16x17_15
+  - first:
+      213: 6758490747999896933
+    second: cave-platformer-tileset-16x17_16
+  - first:
+      213: 5153138920937520740
+    second: cave-platformer-tileset-16x17_17
+  - first:
+      213: -7515629901660553955
+    second: cave-platformer-tileset-16x17_18
+  - first:
+      213: -7322422207096374883
+    second: cave-platformer-tileset-16x17_19
+  - first:
+      213: -6606203529835752520
+    second: cave-platformer-tileset-16x17_20
+  - first:
+      213: 2658753862167654208
+    second: cave-platformer-tileset-16x17_21
+  - first:
+      213: -2919929572373896451
+    second: cave-platformer-tileset-16x17_22
+  - first:
+      213: -2855176535225447127
+    second: cave-platformer-tileset-16x17_23
+  - first:
+      213: -1571225486288431252
+    second: cave-platformer-tileset-16x17_24
+  - first:
+      213: 4471337936780190413
+    second: cave-platformer-tileset-16x17_25
+  - first:
+      213: 760688027078972751
+    second: cave-platformer-tileset-16x17_26
+  - first:
+      213: -1550139629675044815
+    second: cave-platformer-tileset-16x17_27
+  - first:
+      213: -6054929812214560270
+    second: cave-platformer-tileset-16x17_28
+  - first:
+      213: -6253208716678853388
+    second: cave-platformer-tileset-16x17_29
+  - first:
+      213: 4264455338542613854
+    second: cave-platformer-tileset-16x17_30
+  - first:
+      213: 1690537408484278107
+    second: cave-platformer-tileset-16x17_31
+  - first:
+      213: -1320872257521642585
+    second: cave-platformer-tileset-16x17_32
+  - first:
+      213: 1250087223347352519
+    second: cave-platformer-tileset-16x17_33
+  - first:
+      213: -1116330219833238157
+    second: cave-platformer-tileset-16x17_34
+  - first:
+      213: -5629668516919316064
+    second: cave-platformer-tileset-16x17_35
+  - first:
+      213: -4995790908020834120
+    second: cave-platformer-tileset-16x17_36
+  - first:
+      213: 6590750813636181708
+    second: cave-platformer-tileset-16x17_37
+  - first:
+      213: 1288595667689723403
+    second: cave-platformer-tileset-16x17_38
+  - first:
+      213: -1487502507722325084
+    second: cave-platformer-tileset-16x17_39
+  - first:
+      213: -18719975267530020
+    second: cave-platformer-tileset-16x17_40
+  - first:
+      213: -4640570056133676918
+    second: cave-platformer-tileset-16x17_41
+  - first:
+      213: -7462036967782916339
+    second: cave-platformer-tileset-16x17_42
+  - first:
+      213: -5571527748561803579
+    second: cave-platformer-tileset-16x17_43
+  - first:
+      213: -6771958188642449341
+    second: cave-platformer-tileset-16x17_44
+  - first:
+      213: 1096561500542835502
+    second: cave-platformer-tileset-16x17_45
+  - first:
+      213: -2368368236196385731
+    second: cave-platformer-tileset-16x17_46
+  - first:
+      213: -4753288190002346874
+    second: cave-platformer-tileset-16x17_47
+  - first:
+      213: 4928102306623043866
+    second: cave-platformer-tileset-16x17_48
+  - first:
+      213: -3923560592222578139
+    second: cave-platformer-tileset-16x17_49
+  - first:
+      213: -810904712649802361
+    second: cave-platformer-tileset-16x17_50
+  - first:
+      213: 7832346214707586325
+    second: cave-platformer-tileset-16x17_51
+  - first:
+      213: -2053707331542591137
+    second: cave-platformer-tileset-16x17_52
+  - first:
+      213: -1632498083254361337
+    second: cave-platformer-tileset-16x17_53
+  - first:
+      213: 6066611138577087423
+    second: cave-platformer-tileset-16x17_54
+  - first:
+      213: 6541962089242395462
+    second: cave-platformer-tileset-16x17_55
+  - first:
+      213: 11409464400687752
+    second: cave-platformer-tileset-16x17_56
+  - first:
+      213: 7763453593569696420
+    second: cave-platformer-tileset-16x17_57
+  - first:
+      213: -1193984838894469964
+    second: cave-platformer-tileset-16x17_58
+  - first:
+      213: -6675295483374994029
+    second: cave-platformer-tileset-16x17_59
+  - first:
+      213: -4156480177194364404
+    second: cave-platformer-tileset-16x17_60
+  - first:
+      213: 7890872694860250599
+    second: cave-platformer-tileset-16x17_61
+  - first:
+      213: 458628080022365833
+    second: cave-platformer-tileset-16x17_62
+  - first:
+      213: 8015243630700133825
+    second: cave-platformer-tileset-16x17_63
+  - first:
+      213: -8437992098935522815
+    second: cave-platformer-tileset-16x17_64
+  - first:
+      213: -7016693956746977793
+    second: cave-platformer-tileset-16x17_65
+  - first:
+      213: -3566037069819084902
+    second: cave-platformer-tileset-16x17_66
+  - first:
+      213: -8753302552559190773
+    second: cave-platformer-tileset-16x17_67
+  - first:
+      213: 2025693231657651974
+    second: cave-platformer-tileset-16x17_68
+  - first:
+      213: 8077448205508869485
+    second: cave-platformer-tileset-16x17_69
+  - first:
+      213: -8772187081184290500
+    second: cave-platformer-tileset-16x17_70
+  - first:
+      213: 6159199245345098050
+    second: cave-platformer-tileset-16x17_71
+  - first:
+      213: 9168819545070168963
+    second: cave-platformer-tileset-16x17_72
+  - first:
+      213: -1943846679101950292
+    second: cave-platformer-tileset-16x17_73
+  - first:
+      213: -8760294930194148776
+    second: cave-platformer-tileset-16x17_74
+  - first:
+      213: 1873377392811589806
+    second: cave-platformer-tileset-16x17_75
+  - first:
+      213: 1359221933952670543
+    second: cave-platformer-tileset-16x17_76
+  - first:
+      213: 1268988661081669538
+    second: cave-platformer-tileset-16x17_77
+  - first:
+      213: -77344714382928355
+    second: cave-platformer-tileset-16x17_78
+  - first:
+      213: -3908354797122389016
+    second: cave-platformer-tileset-16x17_79
+  - first:
+      213: -1748532106386053236
+    second: cave-platformer-tileset-16x17_80
+  - first:
+      213: 3439782076493381246
+    second: cave-platformer-tileset-16x17_81
+  - first:
+      213: -2119776550148740859
+    second: cave-platformer-tileset-16x17_82
+  - first:
+      213: -7361589770041002477
+    second: cave-platformer-tileset-16x17_83
+  - first:
+      213: 4106651439235284708
+    second: cave-platformer-tileset-16x17_84
+  - first:
+      213: -7236998814120752256
+    second: cave-platformer-tileset-16x17_85
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.3125, y: 0.95454544}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 32, y: 160, z: 80, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d075e14090b6c0e4c9fe1d6f23d225e5
+      internalID: -70948077678480765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ca302c4ab28f649b4976008fd10416
+      internalID: 4267582372204307716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 2}
+        - {x: 7, y: 2}
+        - {x: 8, y: 0}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fee798fbbd8c9349a54a91e18199393
+      internalID: 8349095372854582478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f864a53356302d6479a65811e20772e8
+      internalID: -6978906091359752983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37534f63a04bbd54a9e3d0fb9110dc67
+      internalID: 486658783404813519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad05c32f24531842ab41150fac00988
+      internalID: 3165523888716524365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce58a96a5ce6eb49a3dbad22d8df120
+      internalID: -348161205881839732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf04c5a041cf9849a529342f53eaf85
+      internalID: 8621286010102330952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4010005755877314e8c948e98430b487
+      internalID: -4786085937853504903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e77357112f0b794f99b5cc0f6f781f6
+      internalID: 578571619113801002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -8}
+        - {x: -2, y: -7}
+        - {x: -8, y: -7}
+        - {x: -8, y: 8}
+        - {x: 3, y: 8}
+        - {x: 8, y: 5}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04928ac0bb6b91440951bca8f8ca98dd
+      internalID: 1413452764292358653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 7}
+        - {x: -2, y: 7}
+        - {x: 8, y: 7.808182}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6094eff30a6f44e95a5707852c0ec7
+      internalID: -205828516421157372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -8}
+        - {x: 0, y: -8}
+        - {x: -2, y: -7}
+        - {x: -7, y: -7}
+        - {x: -7, y: -7}
+        - {x: -8, y: -6}
+        - {x: -8, y: 7}
+        - {x: 8, y: 7}
+        - {x: 8, y: -6}
+        - {x: 7, y: -7}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612b592b9f252484a95c548c6e190e78
+      internalID: 2086793025566783050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -7}
+        - {x: -8, y: 7}
+        - {x: 4, y: 8}
+        - {x: 8, y: 0}
+        - {x: 8, y: -8}
+        - {x: 0, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24a326de78bc7e48a8a82d5e4802499
+      internalID: 3554059886948369829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7b567ed33862847bfa1b9cee9d7331
+      internalID: 1321723660005681732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca558837ecbbdca499bd74405e13d65c
+      internalID: 7419357001204900152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91ed1b975300ce47aeddf63abe5d812
+      internalID: 6758490747999896933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90cbc0b6292a5b46a7212eebc62c32a
+      internalID: 5153138920937520740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da46e245d2a8cc14bbe10d1996522e00
+      internalID: -7515629901660553955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9c1d7f11eadd04e83cb16a0c97a2c0
+      internalID: -7322422207096374883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -8}
+        - {x: -8, y: -7}
+        - {x: -8, y: 8}
+        - {x: 2, y: 7}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7617bad29e8503478862e401b5d5359
+      internalID: -6606203529835752520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5548cda922c85f84aae3d0017a8db577
+      internalID: 2658753862167654208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49e46e1f9bbb4e4db006db9d8209f15
+      internalID: -2919929572373896451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -8}
+        - {x: -1, y: -6}
+        - {x: -3, y: 1}
+        - {x: -3, y: 7}
+        - {x: -1, y: 8}
+        - {x: 8, y: 8}
+        - {x: 8, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725b4a2618b62704abb2b5755ddb3d93
+      internalID: -2855176535225447127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f5cf49c8677d54eaa8026b4747e4cb
+      internalID: -1571225486288431252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -8}
+        - {x: -8, y: 8}
+        - {x: 3, y: 8}
+        - {x: 5, y: 7}
+        - {x: 5, y: 2}
+        - {x: 1, y: -5}
+        - {x: -2, y: -8}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc1b8607eaf67f439e0a63d57f19c84
+      internalID: 4471337936780190413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f573064bd82e94947b8981733c76d369
+      internalID: 760688027078972751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f837c5b846f27434a8563f72c40407c1
+      internalID: -1550139629675044815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_28
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad72f38d559a68f418c08a0e26ab5a21
+      internalID: -6054929812214560270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5c0f53ba073154989b182e23124e5c
+      internalID: -6253208716678853388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181aa55e87205774bb778b9c72d2886c
+      internalID: 4264455338542613854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d31d0d9548968458a26973f67e1468
+      internalID: 1690537408484278107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6805f743424666748abf61d52cb19170
+      internalID: -1320872257521642585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff2ac290244e9f459925059d0591770
+      internalID: 1250087223347352519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_34
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed251da58ea1f694caf812b69018452f
+      internalID: -1116330219833238157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c286258950f2243b033c71321db9f8
+      internalID: -5629668516919316064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_36
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220ea016dddf9b247a8bde994cfe2813
+      internalID: -4995790908020834120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b7df2485341fc49b4536d9cc04c575
+      internalID: 6590750813636181708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1460f59f6c5e9c47bcef6c0ec499303
+      internalID: 1288595667689723403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acb12b8944cf2a48970250190cbccd4
+      internalID: -1487502507722325084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bb4982dec461b419f9d4d39755896c
+      internalID: -18719975267530020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bcfb098040bc642aee26232f17cfc6
+      internalID: -4640570056133676918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f45b473180f13438da58602167bde6
+      internalID: -7462036967782916339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52632c4cd60ba4441a28c0e34412c4a9
+      internalID: -5571527748561803579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b346c467195704abf04c7275dab057
+      internalID: -6771958188642449341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_45
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8338cf884b7b114448011611b235c3f7
+      internalID: 1096561500542835502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6862e649324e34b8d82b52544c7d6c
+      internalID: -2368368236196385731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_47
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b668b2dcf8e004387f08a9b4c8f1b9
+      internalID: -4753288190002346874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c98125da889b1e46b409dcf4660dd1c
+      internalID: 4928102306623043866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c087892686327d4488169ba0f0e9abe
+      internalID: -3923560592222578139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c483921848cfa747a1a6a3cd516e1be
+      internalID: -810904712649802361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608e5e6c56fa937449a652e6144dd2fc
+      internalID: 7832346214707586325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0e8565cf551c24c810b77e14a62e0a
+      internalID: -2053707331542591137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_53
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a32f873bbf03541a6bae6682ac6ba1
+      internalID: -1632498083254361337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4136657123d05cd44b78737b8cf4c25a
+      internalID: 6066611138577087423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_55
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8c329d04eb784478e052df74f622f4
+      internalID: 6541962089242395462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4a2acf9676115439ef291cb63f0736
+      internalID: 11409464400687752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6571dd61aa8e8429e7104cd7c67570
+      internalID: 7763453593569696420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d959c3b2cb1fcc44b659a61d0beaa16
+      internalID: -1193984838894469964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_59
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a150b3ef46e284599fa3e54def58a0
+      internalID: -6675295483374994029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d76b56bbd5e2b94cbb7a48844c11239
+      internalID: -4156480177194364404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_61
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde1e6ec640a4304fa44885718aef765
+      internalID: 7890872694860250599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4438d487d7f6fc45a813f3f31b23892
+      internalID: 458628080022365833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_63
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d685e70ee4e8545b5af654c4d09d4a
+      internalID: 8015243630700133825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_64
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9a3e952330fa842a02657bb3de9908
+      internalID: -8437992098935522815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_65
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5fa7b590f8fbc45a17926703243d7d
+      internalID: -7016693956746977793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8a4ee54842d1c488d1aab3eec2d0f6
+      internalID: -3566037069819084902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_67
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5c4ea9d235ca6419156f323fac9a42
+      internalID: -8753302552559190773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faef133ee1067f94eb749a8fc8c7cf10
+      internalID: 2025693231657651974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_69
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74806931206968445a5eb2024c69a0d4
+      internalID: 8077448205508869485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fa85b2bd13d674388fe31942e52124
+      internalID: -8772187081184290500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_71
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e570d79c207bf469d1d455e13c6dd7
+      internalID: 6159199245345098050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71377c9fbadf8c8429c6c2cdc7ce0b74
+      internalID: 9168819545070168963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20436f77ed90b14cbe603cf426efdf0
+      internalID: -1943846679101950292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331c49f86d7233d4daf69dfd8872f3e8
+      internalID: -8760294930194148776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_75
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e18637ac3359a4ba903044849ef324
+      internalID: 1873377392811589806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c253edfa72d9b74191c3b9c7a70a822
+      internalID: 1359221933952670543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_77
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a24198286c8be49a02322dc05acb10
+      internalID: 1268988661081669538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ba1461c5761c6439d50b903d8fae9d
+      internalID: -77344714382928355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_79
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5c80e0686bea84c8fed12774e120ce
+      internalID: -3908354797122389016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_80
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12550231626799c4181cfea15afe6329
+      internalID: -1748532106386053236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43845523087cd014682ce0a91b370445
+      internalID: 3439782076493381246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e99e83ab89fc44c85fe708392608c9
+      internalID: -2119776550148740859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_83
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360b84def58f01d4c8da2f15e39d0cb7
+      internalID: -7361589770041002477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89d32528ff469d4dbe6d7e1829fb1d6
+      internalID: 4106651439235284708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-platformer-tileset-16x17_85
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53abffe5dce34e24fb1c1b98acaae9b8
+      internalID: -7236998814120752256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4ec4f69790282ca439d1631057c7a86a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

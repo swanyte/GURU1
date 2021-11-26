@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: gem_B
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: e83a8b3127c5d8d4b886f923454f1996, type: 3}
+  - {fileID: 21300000, guid: 208cf4a5c864d62478dd1104ba1f983b, type: 3}
+  - {fileID: 21300000, guid: 156ce5d9b50bbf84788221f1edfab83d, type: 3}
+  - {fileID: 21300000, guid: f2e1876e806d29147a9dd14ca70378b7, type: 3}
+  - {fileID: 21300000, guid: 7b86006441d851e45a12177599efff4b, type: 3}
+  - {fileID: 21300000, guid: 7b86006441d851e45a12177599efff4b, type: 3}
+  - {fileID: 21300000, guid: 7b86006441d851e45a12177599efff4b, type: 3}
+  - {fileID: 21300000, guid: 7b86006441d851e45a12177599efff4b, type: 3}
+  m_MinSpeed: 5
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_TileColliderType: 1
